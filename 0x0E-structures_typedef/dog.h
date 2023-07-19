@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 /**
- * struct dog - code block
+ * struct dog - A new data type
  * @name: Dog name
  * @age: Age
  * @owner: Dog's owner
@@ -13,6 +13,5 @@ struct dog
 	char *name;
 	float age;
 	char *owner;
-}
-
+};
 #endif
