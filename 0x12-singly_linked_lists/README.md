@@ -1,1 +1,2 @@
-Learning how to use linked lists in C
+* 0x12. C - Singly linked lists:
+* Learning how to use linked lists in C
